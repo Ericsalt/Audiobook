@@ -1,0 +1,22 @@
+@media (max-width:425px) {
+    .container-aplicativo{
+     justify-content: center;
+     height: 50vh;
+     width: 50vw;
+     
+    
+         
+     }
+
+     #capitulo{
+        font-weight: bolder;
+     }
+
+     
+
+     img{
+        width: 180px;
+        height: 180px;
+     }
+    }
+
